@@ -3,8 +3,6 @@
 
 I'm transitioning into Data Analytics with a strong background in Customer Experience, Marketing, and Trade Marketing operations.
 
-I don’t just build dashboards — I focus on **business impact, decision-making, and real-world insights**.
-
 ---
 
 ### 🚀 What I'm doing right now
@@ -19,7 +17,7 @@ I don’t just build dashboards — I focus on **business impact, decision-makin
 - Strong business mindset (CX, marketing, trade marketing)
 - KPI-driven thinking (revenue, retention, customer behavior, logistics performance)
 - Ability to translate messy data into **clear insights**
-- Analytical storytelling — not just charts, but decisions
+- Analytical storytelling, not just charts, but decisions
 
 ---
 

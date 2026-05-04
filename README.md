@@ -1,71 +1,30 @@
-
-## Hi there 👋 I'm Kath
-
-I'm transitioning into Data Analytics with a strong background in Customer Experience, Marketing, and Trade Marketing operations.
+## Hi, I'm Kath 👋  
+**Data Analyst | SQL | Power BI | Business Thinking**
 
 ---
 
-### 🚀 What I'm doing right now
-- Building an end-to-end **Data Analytics project using the Olist e-commerce dataset**
-- Designing a **complete Data Warehouse (fact & dimension modeling)**
-- Creating dashboards in **Power BI focused on business storytelling**
-- Studying **SQL, data modeling, and analytics thinking daily**
+### About me
+- 📊 Building data projects focused on business impact  
+- 🧠 Strong analytical and problem-solving mindset  
+- 📚 Currently improving SQL, Power BI & English  
+- 🎯 Transitioning into Data Analytics  
 
 ---
 
-### 🧠 What I bring to the table
-- Strong business mindset (CX, marketing, trade marketing)
-- KPI-driven thinking (revenue, retention, customer behavior, logistics performance)
-- Ability to translate messy data into **clear insights**
-- Analytical storytelling, not just charts, but decisions
+### Projects
+- 📦 E-commerce Data Warehouse (in progress)  
+- 📈 Sales & Performance Dashboard  
 
 ---
 
-### 🛠️ Tech & Tools
-- SQL Server (T-SQL)
-- Power BI (DAX, Data Modeling)
-- Excel / Google Sheets
-- Data Cleaning & Transformation
-- Git & GitHub (learning by doing)
+### Tools
+`SQL` • `Power BI` • `Excel` 
 
 ---
 
-### 📊 Current Project Highlights
-- Sales analysis considering **delivered orders only (real revenue)**
-- Customer behavior:
-  - Recurring vs. one-time customers
-  - Revenue contribution split
-- Logistics insights:
-  - Delivery time vs. customer review score
-  - On-time vs. delayed performance (~93% on-time)
-- Category performance over time (seasonality + growth trends)
-
----
-
-### 🎯 My goal
-Land a **Data Analyst role (remote, ideally international)** where I can combine:
-- Data
-- Business strategy
-- Customer/marketing insights
-
----
-
-### 💬 Ask me about
-- Data projects for portfolio
-- Business KPIs and analytics thinking
-- Power BI dashboards (focused on storytelling)
-- Transitioning from operations/CX to data
-
----
-
-### ⚡ Fun fact
-I’m obsessed with understanding **why people buy, behave, and decide** — that’s why I’m combining data + marketing + consumer psychology.
-
----
-
-### 📫 Let's connect
-- LinkedIn: *https://www.linkedin.com/in/kathlen-almeida/*
-
+### Contact
+- 💼 LinkedIn: [(https://www.linkedin.com/in/kathlen-almeida/)]
+- 📧 Email: kathlen.camila@gmail.com
 
 <!--
 **KathAlmeida/KathAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

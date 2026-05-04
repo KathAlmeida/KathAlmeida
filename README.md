@@ -23,6 +23,11 @@
 ---
 
 ### Contact
-<img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/raw/main/social%20icons/linkedin.png?raw=true">
+</a>
+
+<a href="https://www.linkedin.com/in/kathlen-almeida/">
+    <img height="40" width="40" src="https://github.com/BruceFonseca2/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+</a>
+</div>
 
 

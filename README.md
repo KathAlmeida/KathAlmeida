@@ -18,25 +18,11 @@
 ---
 
 ### Tools
-`SQL` • `Power BI` • `Excel` 
+<img height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/raw/main/logo.png?raw=true)"> <img height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/raw/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
 
 ---
 
 ### Contact
-- 💼 LinkedIn: [(https://www.linkedin.com/in/kathlen-almeida/)]
-- 📧 Email: kathlen.camila@gmail.com
+<img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/raw/main/social%20icons/linkedin.png?raw=true">
 
-<!--
-**KathAlmeida/KathAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

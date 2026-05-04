@@ -30,4 +30,23 @@
 </a>
 </div>
 
+<br><br>
+
+### Análise de Dados - E-commerce Olist
+<img align="right" width="500" src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/Overview.jpg?raw=true">
+
+Projeto desenvolvido para análise de performance e comportamento de vendas da plataforma Olist, utilizando SQL para extração e Power BI para visualização dos dados.
+
+**Principais Desafios:** <br>
+- Realizar a limpeza e tratamento de dados de e-commerce utilizando subqueries e CTEs em SQL. <br>
+- Criar métricas de negócio (KPIs) como Faturamento, Ticket Médio e Taxa de Entrega no Prazo. <br>
+- Analisar o comportamento de clientes recorrentes e a satisfação através de reviews.
+
+<br>
+<br>
+
+<a href="https://github.com/KathAlmeida/OlistPortfolio" target="_blank">Clique aqui</a> e acesse o repositório completo no Github.
+<br>
+<a href="LINK_DO_SEU_DASHBOARD_PUBLICADO" target="_blank">Clique aqui</a> para visualizar o painel interativo desenvolvido.
+
 

@@ -47,6 +47,7 @@ Projeto desenvolvido para análise de performance e comportamento de vendas da p
 
 <a href="https://github.com/KathAlmeida/OlistPortfolio" target="_blank">Clique aqui</a> e acesse o repositório completo no Github.
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNTc5NWYxMmYtNTgwNS00YzgwLTk1OWItMTY1YjkxZTM4NmZmIiwidCI6IjcyNGM3NWE1LTZkM2MtNDdmNy1hMmVhLWZkODdmOTg3MDM3NSJ9" target="_blank">Clique aqui</a> para visualizar o painel interativo desenvolvido.
+<a href="<img width="1493" height="823" alt="image" src="https://github.com/user-attachments/assets/b6842913-2f33-42cf-921b-74dfc8b5089b" />
+" target="_blank">Clique aqui</a> para visualizar o painel interativo desenvolvido.
 
 

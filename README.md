@@ -35,12 +35,21 @@
 ### Análise de Dados - E-commerce Olist
 <img align="right" width="500" src="https://github.com/user-attachments/assets/b6842913-2f33-42cf-921b-74dfc8b5089b">
 
-Projeto desenvolvido para análise de performance e comportamento de vendas da plataforma Olist, utilizando SQL para extração e Power BI para visualização dos dados.
+Projeto desenvolvido com foco em análise de performance, comportamento de clientes, logística e satisfação em um e-commerce.
+A análise foi construída utilizando SQL para tratamento e modelagem dos dados e Power BI para visualização e geração de insights de negócio.
 
-**Principais Desafios:** <br>
-- Realizar a limpeza e tratamento de dados de e-commerce utilizando subqueries e CTEs em SQL. <br>
-- Criar métricas de negócio (KPIs) como Faturamento, Ticket Médio e Taxa de Entrega no Prazo. <br>
-- Analisar o comportamento de clientes recorrentes e a satisfação através de reviews.
+### 🔍 Principais análises realizadas:
+- Faturamento e sazonalidade de vendas
+- Ticket médio e volume de pedidos
+- Retenção e recorrência de clientes
+- Performance logística e entregas no prazo
+- Relação entre prazo de entrega e satisfação do cliente
+
+### ⚙️ Principais desafios técnicos:
+- Criação manual das tabelas no SQL Server
+- Tratamento e padronização de dados
+- Correção de valores inflados causados por tipagem incorreta
+- Construção de métricas de negócio utilizando CTEs e subqueries
 
 <br>
 <br>
